@@ -16,14 +16,6 @@ Testa Login funktionalitet for automationPlayground
     Wait Until Page Contains    Our Happy Customers
     #Capture Page Screenshot
     Click Link    //a[@id='new-customer']
-
-
-
-
-
-
-
-    [Documentation]    filling customer details
     Input Text    //input[@id='EmailAddress']    sara@gmail.com
     Input Text    //input[@id='FirstName']       sara
     Input Text    //input[@id='LastName']      Ali
